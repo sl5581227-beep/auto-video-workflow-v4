@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+env/
+
+# MoviePy
+TEMP_MPY_wvf_snd.mp4
+
+# FFmpeg temp
+ffmpeg_temp/
+
+# Output files
+成品*.mp4
+*_tmp*.mp4
+*_final.mp4
+voiceover*.mp3
+subs*.srt
+subs*.ass
+concat*.mp4
+concat_raw.mp4
+video_final_no_audio.mp4
+
+# Project files
+clips_selected/
+clips_processed/
+project_v3/
+project_60s/
+_frames/
+analysis_frames/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Analysis outputs (too large to version)
+*.json
+*.csv
+!配置/config_example.json

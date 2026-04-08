@@ -1,0 +1,17 @@
+{
+  "base_dir": "C:/Users/Administrator/Desktop/素材01/西梅奇亚籽轻上饮品",
+  "output_dir": "C:/Users/Administrator/Desktop",
+  "font_path": "C:/Windows/Fonts/arial.ttf",
+  "tts_voice": "zh-CN-XiaoxiaoNeural",
+  "tts_rate": "+5%",
+  "tts_pitch": "-3Hz",
+  "video_codec": "libx264",
+  "video_preset": "fast",
+  "video_crf": 22,
+  "audio_bitrate": "192k",
+  "output_resolution": "1080x1920",
+  "target_duration": 60,
+  "subtitle_font_size": 52,
+  "subtitle_stroke_width": 3,
+  "subtitle_bottom_margin": 80
+}
